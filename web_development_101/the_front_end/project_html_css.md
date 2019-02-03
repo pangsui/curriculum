@@ -92,6 +92,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 [Zayne Desphezr Solution (Easy)](https://github.com/prozayn2018/google-homepage) - [View in Browser (Easy)](https://prozayn2018.github.io/google-homepage/)
 * [Roelof Wobben's Solution (Easy)](https://github.com/RoelofWobben/google-homepage) - [View in Browser (Easy)](https://roelofwobben.github.io/google-homepage/)
 * [Pavel Alekseev's Solution (Easy)](https://github.com/RukkiesMan/google-homepage) - [View in Browser (Easy)](https://rukkiesman.github.io/google-homepage)
+
 * [Stefan Spasic's Solution (Easy)](https://github.com/Semantron/google-homepage) - [View in Browser (Easy)](https://semantron.github.io/google-homepage/)
 * [Carter Harkins Solution (Difficult)](https://github.com/carterharkins/google_homepage) - [View in Browser](https://carterharkins.github.io/google_homepage/)
 * [Michael Lorenzana Solution (Easy)](https://github.com/Mlorenzana12/google_homepage) - [View in Browser](https://mlorenzana12.github.io/google_homepage/)
@@ -1902,8 +1903,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 (https://xcarmaix.github.io/google-homepage/)
 * [CoolHandLuke79's Solution (Easy)](https://github.com/CoolHandLuke79/google-homepage) - [View in Browser](https://coolhandluke79.github.io/google-homepage/)
 * [Michael Houmann's solution in danish(easy)](https://github.com/mhoumann87/top_google_homepage) - [View in Browser](https://mhoumann87.github.io/top_google_homepage/)
-* [Beka Arabuli's Solution (Easy)](https://github.com/arabuli/google-homepage) - [View in Browser](https://arabuli.github.io/google-homepage/)
-
+* [Beka Arabuli's Solution (Easy)](https://github.com/arabuli/google-homepage) - [View in Browser](https://arabuli.github.io/google-homepage/
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
